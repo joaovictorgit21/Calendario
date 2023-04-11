@@ -1,0 +1,96 @@
+body
+{
+    background-color: rgb(121, 118, 118);
+}
+#ferias
+{
+    background-color: rgb(59, 6, 6);
+}
+
+table, th, td, tr
+{
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: center;
+}
+
+th
+{
+    background-color: rgb(16, 16, 78);
+}
+
+td:hover
+{
+    cursor: pointer;
+}
+
+table
+{
+    width: 40rem;
+    height: 30rem;
+    position: relative;
+    left: 25rem;
+    top: 4rem;
+    background-color: rgb(52, 52, 52);
+}
+
+td
+{
+    width: 70px;
+    height: 80px;
+}
+
+input
+{
+    background-color: grey;
+}
+
+#passado
+{
+    color: rgb(36, 32, 32);
+}
+
+#futuro
+{
+    color: rgb(36, 32, 32);
+}
+
+select, label
+{
+    position: relative;
+    left: 25.5rem;
+    top: 80px;
+}
+
+#color
+{
+    position: relative;
+    left: 25.5rem;
+    top: 5rem;
+}
+
+#Escolhaday
+{
+    position: relative;
+}
+
+#day
+{
+    position: relative;
+    left: 408px;
+    top: 5rem;
+}
+
+#Envio
+{
+    position: relative;
+    top: 5rem;
+    left: 25.5rem;
+}
+
+#resetar
+{
+    position: relative;
+    left: 25.5rem;
+    top: 5rem;
+}
